@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "LoRa Emergency Communication System",
+    "description": "Disaster communication using LoRa without cellular networks",
+    "tech": "ESP32, LoRa, GPS, React",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "AI Job Recommendation System",
+    "description": "ML-based job role recommendation engine",
+    "tech": "Python, ML, React, Node",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Environmental Data Analysis",
+    "description": "Microbial degradation analytics & visualization",
+    "tech": "Python, Pandas, Visualization",
+    "link": "#"
+  }
+]
